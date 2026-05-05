@@ -10,5 +10,5 @@
 ![pngwing com (2)](https://user-images.githubusercontent.com/103682226/179353494-d290097a-bb42-4e48-8c4d-db35756a2240.png)
 ![pngwing com (3)](https://user-images.githubusercontent.com/103682226/179353557-857f49de-a51d-4465-9db0-1b257c17ae7a.png)
 ![pngwing com (8)](https://user-images.githubusercontent.com/103682226/179353952-5bdc7401-70b5-4e11-9edf-a7b3a2601f84.png)
-![pngwing com (5)](https://user-images.githubusercontent.com/103682226/179353612-4215a355-6989-4cd5-abc8-55b252762fa3.png)
+
 
