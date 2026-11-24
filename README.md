@@ -1,7 +1,5 @@
 ### Hello there 👋
-#### I'm Vladyslav - begginer in web development😉
-##### I am learning Python and other technologies
-##### to become a professional full stack developer😎
+
 ### Stack:
 ![pngwing com](https://user-images.githubusercontent.com/103682226/179353370-e6b4a552-979e-407c-92a1-7d995879043b.png)
 ![pngwing com (1)](https://user-images.githubusercontent.com/103682226/179353412-cd108806-5cf8-45f1-8a8e-bbfbc02851da.png)
